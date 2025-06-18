@@ -1,0 +1,1244 @@
+{
+  "0xc6aF8e73e2261264eF95466B97B13e03Bd88165e": {
+    "address": "0xc6aF8e73e2261264eF95466B97B13e03Bd88165e",
+    "protocol": "UniswapV3",
+    "token0": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "PENDLE/USDC"
+  },
+  "0xC24f7d8E51A64dc1238880BD00bb961D54cbeb29": {
+    "address": "0xC24f7d8E51A64dc1238880BD00bb961D54cbeb29",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WETH/UNI"
+  },
+  "0xC051405EdeF0E64eBfc501cFe1158Eb0D74F3208": {
+    "address": "0xC051405EdeF0E64eBfc501cFe1158Eb0D74F3208",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "ARB/DAI"
+  },
+  "0xCb198a55e2a88841E855bE4EAcaad99422416b33": {
+    "address": "0xCb198a55e2a88841E855bE4EAcaad99422416b33",
+    "protocol": "UniswapV3",
+    "token0": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+    "token1": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "tBTC/WETH"
+  },
+  "0x0E4831319A50228B9e450861297aB92dee15B44F": {
+    "address": "0x0E4831319A50228B9e450861297aB92dee15B44F",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0x562d29b54d2c57F8620C920415C4dCEAdD6dE2d2": {
+    "address": "0x562d29b54d2c57F8620C920415C4dCEAdD6dE2d2",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "fee": 50,
+    "type": "UniV3-0.005%",
+    "pair_name": "USDC/USDC"
+  },
+  "0x53C6ca2597711Ca7a73b6921fAf4031EeDf71339": {
+    "address": "0x53C6ca2597711Ca7a73b6921fAf4031EeDf71339",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WBTC/USDT"
+  },
+  "0x699f628A8A1DE0f28cf9181C1F8ED848eBB0BBdF": {
+    "address": "0x699f628A8A1DE0f28cf9181C1F8ED848eBB0BBdF",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0x468b88941e7Cc0B88c1869d68ab6b570bCEF62Ff": {
+    "address": "0x468b88941e7Cc0B88c1869d68ab6b570bCEF62Ff",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WETH/LINK"
+  },
+  "0x14353445c8329Df76e6f15e9EAD18fA2D45A8BB6": {
+    "address": "0x14353445c8329Df76e6f15e9EAD18fA2D45A8BB6",
+    "protocol": "UniswapV3",
+    "token0": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+    "token1": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "weETH/WETH"
+  },
+  "0x92c63d0e701CAAe670C9415d91C474F686298f00": {
+    "address": "0x92c63d0e701CAAe670C9415d91C474F686298f00",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WETH/ARB"
+  },
+  "0x42161084d0672e1d3F26a9B53E653bE2084ff19C": {
+    "address": "0x42161084d0672e1d3F26a9B53E653bE2084ff19C",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "WETH/USDT"
+  },
+  "0x30AFBcF9458c3131A6d051C621E307E6278E4110": {
+    "address": "0x30AFBcF9458c3131A6d051C621E307E6278E4110",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x7f580f8A02b759C350E6b8340e7c2d4b8162b6a9": {
+    "address": "0x7f580f8A02b759C350E6b8340e7c2d4b8162b6a9",
+    "protocol": "UniswapV3",
+    "token0": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "DAI/USDT"
+  },
+  "0xb0f6cA40411360c03d41C5fFc5F179b8403CdcF8": {
+    "address": "0xb0f6cA40411360c03d41C5fFc5F179b8403CdcF8",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "ARB/USDC"
+  },
+  "0xaEBDcA1Bc8d89177EbE2308d62af5e74885DcCc3": {
+    "address": "0xaEBDcA1Bc8d89177EbE2308d62af5e74885DcCc3",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "ARB/USDC"
+  },
+  "0xbBe36e6f0331C6a36AB44Bc8421E28E1a1871C1e": {
+    "address": "0xbBe36e6f0331C6a36AB44Bc8421E28E1a1871C1e",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "USDC/LINK"
+  },
+  "0xab007665A4dFD24830f0ca19206F9fBd7c3Aa85F": {
+    "address": "0xab007665A4dFD24830f0ca19206F9fBd7c3Aa85F",
+    "protocol": "UniswapV3",
+    "token0": "0x5979D7b546E38E414F7E9822514be443A4800529",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "wstETH/USDC"
+  },
+  "0xF0428617433652c9dc6D1093A42AdFbF30D29f74": {
+    "address": "0xF0428617433652c9dc6D1093A42AdFbF30D29f74",
+    "protocol": "UniswapV3",
+    "token0": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "DAI/USDC"
+  },
+  "0xB791Ad21ba45C76629003b4A2f04c0d544406e37": {
+    "address": "0xB791Ad21ba45C76629003b4A2f04c0d544406e37",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "ARB/USDT"
+  },
+  "0x616a2a065bFE53DA48e83E7d709fB428AA3C9F5B": {
+    "address": "0x616a2a065bFE53DA48e83E7d709fB428AA3C9F5B",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "ARB/USDC"
+  },
+  "0xC31E54c7a869B9FcBEcc14363CF510d1c41fa443": {
+    "address": "0xC31E54c7a869B9FcBEcc14363CF510d1c41fa443",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x35218a1cbaC5Bbc3E57fd9Bd38219D37571b3537": {
+    "address": "0x35218a1cbaC5Bbc3E57fd9Bd38219D37571b3537",
+    "protocol": "UniswapV3",
+    "token0": "0x5979D7b546E38E414F7E9822514be443A4800529",
+    "token1": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "wstETH/WETH"
+  },
+  "0x8c9D230D45d6CfeE39a6680Fb7CB7E8DE7Ea8E71": {
+    "address": "0x8c9D230D45d6CfeE39a6680Fb7CB7E8DE7Ea8E71",
+    "protocol": "UniswapV3",
+    "token0": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "USDT/USDC"
+  },
+  "0x641C00A822e8b671738d32a431a4Fb6074E5c79d": {
+    "address": "0x641C00A822e8b671738d32a431a4Fb6074E5c79d",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/USDT"
+  },
+  "0x7F457e25a92bAd1AeeCF2250A4ff80135F4e35c1": {
+    "address": "0x7F457e25a92bAd1AeeCF2250A4ff80135F4e35c1",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "fee": 10000,
+    "type": "UniV3-1.0%",
+    "pair_name": "ARB/DAI"
+  },
+  "0x80151aAe63b24A7e1837Fe578FB6bE026ae8AbBA": {
+    "address": "0x80151aAe63b24A7e1837Fe578FB6bE026ae8AbBA",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 10000,
+    "type": "UniV3-1.0%",
+    "pair_name": "ARB/USDT"
+  },
+  "0xDD672b3B768A16b9BcB4eE1060d3e8221435BeAa": {
+    "address": "0xDD672b3B768A16b9BcB4eE1060d3e8221435BeAa",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WETH/AAVE"
+  },
+  "0x149e36E72726e0BceA5c59d40df2c43F60f5A22D": {
+    "address": "0x149e36E72726e0BceA5c59d40df2c43F60f5A22D",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WBTC/WETH"
+  },
+  "0x889af944e95788f770983062B13B5A52E367029B": {
+    "address": "0x889af944e95788f770983062B13B5A52E367029B",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "WBTC/tBTC"
+  },
+  "0x6A9D961c9602fB484bA3C47c5F822b66721C9669": {
+    "address": "0x6A9D961c9602fB484bA3C47c5F822b66721C9669",
+    "protocol": "UniswapV3",
+    "token0": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "FRAX/USDC"
+  },
+  "0xcDa53B1F66614552F834cEeF361A8D12a0B8DaD8": {
+    "address": "0xcDa53B1F66614552F834cEeF361A8D12a0B8DaD8",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "ARB/USDC"
+  },
+  "0x50e7B9293aeF80c304234e86C84a01bE8401C530": {
+    "address": "0x50e7B9293aeF80c304234e86C84a01bE8401C530",
+    "protocol": "UniswapV3",
+    "token0": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "PENDLE/USDT"
+  },
+  "0x93498285C774bD9378DbddEEBF92642a9B2f4E1F": {
+    "address": "0x93498285C774bD9378DbddEEBF92642a9B2f4E1F",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WBTC/AAVE"
+  },
+  "0xac70bD92F89e6739B3a08Db9B6081a923912f73D": {
+    "address": "0xac70bD92F89e6739B3a08Db9B6081a923912f73D",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0xAbc27aa4e47ce3b5591093DE87Ab7abeaFb3Afa0": {
+    "address": "0xAbc27aa4e47ce3b5591093DE87Ab7abeaFb3Afa0",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WETH/LINK"
+  },
+  "0x5969EFddE3cF5C0D9a88aE51E47d721096A97203": {
+    "address": "0x5969EFddE3cF5C0D9a88aE51E47d721096A97203",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WBTC/USDT"
+  },
+  "0xdf63268Af25A2A69c07d09A88336Cd9424269a1f": {
+    "address": "0xdf63268Af25A2A69c07d09A88336Cd9424269a1f",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 50,
+    "type": "UniV3-0.005%",
+    "pair_name": "USDC/USDT"
+  },
+  "0x3D18C836Be1674e8eCc6906224c3e871A1b3a13f": {
+    "address": "0x3D18C836Be1674e8eCc6906224c3e871A1b3a13f",
+    "protocol": "UniswapV3",
+    "token0": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "LUSD/USDC"
+  },
+  "0x7548BD60CB8f627A9b8ed94f8ca174348DbE6A05": {
+    "address": "0x7548BD60CB8f627A9b8ed94f8ca174348DbE6A05",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "USDC/xUSD"
+  },
+  "0xf3Eb87C1F6020982173C908E7eB31aA66c1f0296": {
+    "address": "0xf3Eb87C1F6020982173C908E7eB31aA66c1f0296",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x85CC4fDdfB9CA3751a2612Ad902FaA9C626adF78": {
+    "address": "0x85CC4fDdfB9CA3751a2612Ad902FaA9C626adF78",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "USDC/aArbWETH"
+  },
+  "0x421803dA50d3932Caa36bD1731d36a0E2AF93542": {
+    "address": "0x421803dA50d3932Caa36bD1731d36a0E2AF93542",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/xUSD"
+  },
+  "0x7CF803e8d82A50504180f417B8bC7a493C0a0503": {
+    "address": "0x7CF803e8d82A50504180f417B8bC7a493C0a0503",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "USDC/DAI"
+  },
+  "0x91308bC9Ce8Ca2db82aA30C65619856cC939d907": {
+    "address": "0x91308bC9Ce8Ca2db82aA30C65619856cC939d907",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/LINK"
+  },
+  "0x3Db70832F48F8c01ee041671f7BB1cfaA2677584": {
+    "address": "0x3Db70832F48F8c01ee041671f7BB1cfaA2677584",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "USDC/AAVE"
+  },
+  "0xc82819F72A9e77E2c0c3A69B3196478f44303cf4": {
+    "address": "0xc82819F72A9e77E2c0c3A69B3196478f44303cf4",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WETH/USDT"
+  },
+  "0x49768b215014faC2C66680B03045fe32936b21e6": {
+    "address": "0x49768b215014faC2C66680B03045fe32936b21e6",
+    "protocol": "UniswapV3",
+    "token0": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "AAVE/USDT"
+  },
+  "0x03a3bE7Ab4aa263D42d63B6CC594F4fb3D3F3951": {
+    "address": "0x03a3bE7Ab4aa263D42d63B6CC594F4fb3D3F3951",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "WBTC/WETH"
+  },
+  "0xa79fD76cA2b24631Ec3151f10c0660a30Bc946E7": {
+    "address": "0xa79fD76cA2b24631Ec3151f10c0660a30Bc946E7",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WBTC/LINK"
+  },
+  "0x32A5746bA6826828716Cc1A394bC33301eBC7656": {
+    "address": "0x32A5746bA6826828716Cc1A394bC33301eBC7656",
+    "protocol": "UniswapV3",
+    "token0": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "LINK/USDT"
+  },
+  "0xa8ba6d8cfC317a8Ba8D71eFB185Dfa34162EC47E": {
+    "address": "0xa8ba6d8cfC317a8Ba8D71eFB185Dfa34162EC47E",
+    "protocol": "UniswapV3",
+    "token0": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "GHO/USDC"
+  },
+  "0x15E444da5b343c5A0931f5d3e85D158d1efC3D40": {
+    "address": "0x15E444da5b343c5A0931f5d3e85D158d1efC3D40",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x2f5e87C9312fa29aed5c179E456625D79015299c": {
+    "address": "0x2f5e87C9312fa29aed5c179E456625D79015299c",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WBTC/WETH"
+  },
+  "0x689C96ceAb93f5E131631D225D75DeA3fD37747E": {
+    "address": "0x689C96ceAb93f5E131631D225D75DeA3fD37747E",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WBTC/ARB"
+  },
+  "0x97bca422Ec0Ee4851F2110eA743C1cd0a14835a1": {
+    "address": "0x97bca422Ec0Ee4851F2110eA743C1cd0a14835a1",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "ARB/USDT"
+  },
+  "0x6985cb98CE393FCE8d6272127F39013f61e36166": {
+    "address": "0x6985cb98CE393FCE8d6272127F39013f61e36166",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0x2760cC828B2e4D04f8eC261A5335426bb22d9291": {
+    "address": "0x2760cC828B2e4D04f8eC261A5335426bb22d9291",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "token1": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WBTC/WETH"
+  },
+  "0x6f38e884725a116C9C7fBF208e79FE8828a2595F": {
+    "address": "0x6f38e884725a116C9C7fBF208e79FE8828a2595F",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x8e295789c9465487074a65b1ae9Ce0351172393f": {
+    "address": "0x8e295789c9465487074a65b1ae9Ce0351172393f",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "USDC/USDC"
+  },
+  "0x6cE9BC2D8093D32ADde4695A4530B96558388f7e": {
+    "address": "0x6cE9BC2D8093D32ADde4695A4530B96558388f7e",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/ARB"
+  },
+  "0xC6F780497A95e246EB9449f5e4770916DCd6396A": {
+    "address": "0xC6F780497A95e246EB9449f5e4770916DCd6396A",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/ARB"
+  },
+  "0xeE5F2E39D8aBF28E449327bfd44317FC500EB4D8": {
+    "address": "0xeE5F2E39D8aBF28E449327bfd44317FC500EB4D8",
+    "protocol": "UniswapV3",
+    "token0": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "ARB/USDC"
+  },
+  "0x8BD39fA8608fd949C253987767540c26a0D974CF": {
+    "address": "0x8BD39fA8608fd949C253987767540c26a0D974CF",
+    "protocol": "UniswapV3",
+    "token0": "0x5979D7b546E38E414F7E9822514be443A4800529",
+    "token1": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "wstETH/WETH"
+  },
+  "0xbE3aD6a5669Dc0B8b12FeBC03608860C31E2eef6": {
+    "address": "0xbE3aD6a5669Dc0B8b12FeBC03608860C31E2eef6",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 100,
+    "type": "UniV3-0.01%",
+    "pair_name": "USDC/USDT"
+  },
+  "0xC6962004f452bE9203591991D15f6b388e09E8D0": {
+    "address": "0xC6962004f452bE9203591991D15f6b388e09E8D0",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x96aDA81328abCe21939A51D971A63077e16db26E": {
+    "address": "0x96aDA81328abCe21939A51D971A63077e16db26E",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/USDT"
+  },
+  "0x31Fa55e03bAD93C7f8AFfdd2eC616EbFde246001": {
+    "address": "0x31Fa55e03bAD93C7f8AFfdd2eC616EbFde246001",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/DAI"
+  },
+  "0xB08a8794A5D3cCCA3725D92964696858d3201909": {
+    "address": "0xB08a8794A5D3cCCA3725D92964696858d3201909",
+    "protocol": "UniswapV3",
+    "token0": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+    "token1": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "PENDLE/WETH"
+  },
+  "0xc473e2aEE3441BF9240Be85eb122aBB059A3B57c": {
+    "address": "0xc473e2aEE3441BF9240Be85eb122aBB059A3B57c",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x263f7B865DE80355F91C00dFb975A821Effbea24": {
+    "address": "0x263f7B865DE80355F91C00dFb975A821Effbea24",
+    "protocol": "UniswapV3",
+    "token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "token1": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+    "fee": 500,
+    "type": "UniV3-0.05%",
+    "pair_name": "WETH/AAVE"
+  },
+  "0xaDF56F4966f965d1759ecD3D63028d610E773817": {
+    "address": "0xaDF56F4966f965d1759ecD3D63028d610E773817",
+    "protocol": "SolidlyV3",
+    "token0": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "token1": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "fee": 3000,
+    "type": "UniV3-0.3%",
+    "pair_name": "USDC/USDT"
+  },
+  "0x060d8a5a7c03882e33aca8fc304babe869e21ee9": {
+    "address": "0x060d8a5a7c03882e33aca8fc304babe869e21ee9",
+    "protocol": "UniswapV3",
+    "token0": "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "GRAI/USDC"
+  },
+  "0x06607df154875f0507c33418707f366bd47a62fa": {
+    "address": "0x06607df154875f0507c33418707f366bd47a62fa",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0x0b5a972b27c5b735990c28011ccb4fd93966120c": {
+    "address": "0x0b5a972b27c5b735990c28011ccb4fd93966120c",
+    "protocol": "UniswapV3",
+    "token0": "0x050c24dbf1eec17babe5fc585f06116a259cc77a",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "IBTC/WETH"
+  },
+  "0x0ba3d55678c019b8101061855fe4ea8d3ece784f": {
+    "address": "0x0ba3d55678c019b8101061855fe4ea8d3ece784f",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "fee": 2500,
+    "type": "UniswapV3-0.25%",
+    "pair_name": "WETH/LINK"
+  },
+  "0x0bacc7a9717e70ea0da5ac075889bd87d4c81197": {
+    "address": "0x0bacc7a9717e70ea0da5ac075889bd87d4c81197",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WETH/USD\u20ae0"
+  },
+  "0x0e4831319a50228b9e450861297ab92dee15b44f": {
+    "address": "0x0e4831319a50228b9e450861297ab92dee15b44f",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0x11d53ec50bc8f54b9357fbfe2a7de034fc00f8b3": {
+    "address": "0x11d53ec50bc8f54b9357fbfe2a7de034fc00f8b3",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WETH/ARB"
+  },
+  "0x17c14d2c404d167802b16c450d3c99f88f2c4f4d": {
+    "address": "0x17c14d2c404d167802b16c450d3c99f88f2c4f4d",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x1d2031fa0da6fb4bda57e377c7273c22eab930d6": {
+    "address": "0x1d2031fa0da6fb4bda57e377c7273c22eab930d6",
+    "protocol": "UniswapV3",
+    "token0": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "ezETH/WETH"
+  },
+  "0x1f0a76ae19f4b8b79e36886c71a989cd723365dc": {
+    "address": "0x1f0a76ae19f4b8b79e36886c71a989cd723365dc",
+    "protocol": "UniswapV3",
+    "token0": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "ezETH/WETH"
+  },
+  "0x2760cc828b2e4d04f8ec261a5335426bb22d9291": {
+    "address": "0x2760cc828b2e4d04f8ec261a5335426bb22d9291",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WBTC/WETH"
+  },
+  "0x2d4bfb17db454cf582a74902c91fb09a3883a5cc": {
+    "address": "0x2d4bfb17db454cf582a74902c91fb09a3883a5cc",
+    "protocol": "UniswapV3",
+    "token0": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 250,
+    "type": "UniswapV3-0.025%",
+    "pair_name": "weETH/WETH"
+  },
+  "0x30afbcf9458c3131a6d051c621e307e6278e4110": {
+    "address": "0x30afbcf9458c3131a6d051c621e307e6278e4110",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x32a5746ba6826828716cc1a394bc33301ebc7656": {
+    "address": "0x32a5746ba6826828716cc1a394bc33301ebc7656",
+    "protocol": "UniswapV3",
+    "token0": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "LINK/USD\u20ae0"
+  },
+  "0x389938cf14be379217570d8e4619e51fbdafaa21": {
+    "address": "0x389938cf14be379217570d8e4619e51fbdafaa21",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WETH/USD\u20ae0"
+  },
+  "0x3abbbbb4c254b9327f1a0580bdbccb51b0b5fb08": {
+    "address": "0x3abbbbb4c254b9327f1a0580bdbccb51b0b5fb08",
+    "protocol": "UniswapV3",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "wstETH/WETH"
+  },
+  "0x3d74ae67a1a7ae2c14990516e883ec37046a8842": {
+    "address": "0x3d74ae67a1a7ae2c14990516e883ec37046a8842",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "token1": "0xc760f9782f8cea5b06d862574464729537159966",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "USDC/TANGO"
+  },
+  "0x3db70832f48f8c01ee041671f7bb1cfaa2677584": {
+    "address": "0x3db70832f48f8c01ee041671f7bb1cfaa2677584",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "token1": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "USDC/AAVE"
+  },
+  "0x40cb44ee76032c11a72f8ad15f3306d5bfa45209": {
+    "address": "0x40cb44ee76032c11a72f8ad15f3306d5bfa45209",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "token1": "0xc760f9782f8cea5b06d862574464729537159966",
+    "fee": 10000,
+    "type": "UniswapV3-1.0%",
+    "pair_name": "USDC/TANGO"
+  },
+  "0x40cc6f68400958bf7225e8a762d3ad41c1064086": {
+    "address": "0x40cc6f68400958bf7225e8a762d3ad41c1064086",
+    "protocol": "UniswapV3",
+    "token0": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "ezETH/WETH"
+  },
+  "0x42161084d0672e1d3f26a9b53e653be2084ff19c": {
+    "address": "0x42161084d0672e1d3f26a9b53e653be2084ff19c",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WETH/USD\u20ae0"
+  },
+  "0x421803da50d3932caa36bd1731d36a0e2af93542": {
+    "address": "0x421803da50d3932caa36bd1731d36a0e2af93542",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WETH/xUSD"
+  },
+  "0x42d7c8302a746f98ec74f0dbc95fc39b46c1abb6": {
+    "address": "0x42d7c8302a746f98ec74f0dbc95fc39b46c1abb6",
+    "protocol": "UniswapV3",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "PENDLE/USDC"
+  },
+  "0x42fc852a750ba93d5bf772ecdc857e87a86403a9": {
+    "address": "0x42fc852a750ba93d5bf772ecdc857e87a86403a9",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 10000,
+    "type": "UniswapV3-1.0%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x49768b215014fac2c66680b03045fe32936b21e6": {
+    "address": "0x49768b215014fac2c66680b03045fe32936b21e6",
+    "protocol": "UniswapV3",
+    "token0": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "AAVE/USD\u20ae0"
+  },
+  "0x4b89179dafe5c36ae611208b5590fef9153b7daa": {
+    "address": "0x4b89179dafe5c36ae611208b5590fef9153b7daa",
+    "protocol": "UniswapV3",
+    "token0": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "rsETH/WETH"
+  },
+  "0x4bfc22a4da7f31f8a912a79a7e44a822398b4390": {
+    "address": "0x4bfc22a4da7f31f8a912a79a7e44a822398b4390",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WBTC/WETH"
+  },
+  "0x4cf93ad26db4e1e5593e11f49b318780389a471b": {
+    "address": "0x4cf93ad26db4e1e5593e11f49b318780389a471b",
+    "protocol": "UniswapV3",
+    "token0": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "AAVE/LINK"
+  },
+  "0x4fc7ac44dae553464d92c049175133239a8705c1": {
+    "address": "0x4fc7ac44dae553464d92c049175133239a8705c1",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x5969efdde3cf5c0d9a88ae51e47d721096a97203": {
+    "address": "0x5969efdde3cf5c0d9a88ae51e47d721096a97203",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WBTC/USD\u20ae0"
+  },
+  "0x5a17cbf5f866bde11c28861a2742764fac0eba4b": {
+    "address": "0x5a17cbf5f866bde11c28861a2742764fac0eba4b",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0x67ab7dc903a10838a0de8861dfdff3287cf98e5c": {
+    "address": "0x67ab7dc903a10838a0de8861dfdff3287cf98e5c",
+    "protocol": "UniswapV3",
+    "token0": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "xUSD/USD\u20ae0"
+  },
+  "0x6985cb98ce393fce8d6272127f39013f61e36166": {
+    "address": "0x6985cb98ce393fce8d6272127f39013f61e36166",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0x6ce9bc2d8093d32adde4695a4530b96558388f7e": {
+    "address": "0x6ce9bc2d8093d32adde4695a4530b96558388f7e",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WETH/ARB"
+  },
+  "0x6f38e884725a116c9c7fbf208e79fe8828a2595f": {
+    "address": "0x6f38e884725a116c9c7fbf208e79fe8828a2595f",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x7548bd60cb8f627a9b8ed94f8ca174348dbe6a05": {
+    "address": "0x7548bd60cb8f627a9b8ed94f8ca174348dbe6a05",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "token1": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "USDC/xUSD"
+  },
+  "0x7e928afb59f5de9d2f4d162f754c6eb40c88aa8e": {
+    "address": "0x7e928afb59f5de9d2f4d162f754c6eb40c88aa8e",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "USDC/USD\u20ae0"
+  },
+  "0x7f580f8a02b759c350e6b8340e7c2d4b8162b6a9": {
+    "address": "0x7f580f8a02b759c350e6b8340e7c2d4b8162b6a9",
+    "protocol": "UniswapV3",
+    "token0": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "DAI/USD\u20ae0"
+  },
+  "0x7fcdc35463e3770c2fb992716cd070b63540b947": {
+    "address": "0x7fcdc35463e3770c2fb992716cd070b63540b947",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WETH/USDC"
+  },
+  "0x843ac8dc6d34aeb07a56812b8b36429ee46bdd07": {
+    "address": "0x843ac8dc6d34aeb07a56812b8b36429ee46bdd07",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0x858dff46915d3f81bb7ff06158b2806164acb2a0": {
+    "address": "0x858dff46915d3f81bb7ff06158b2806164acb2a0",
+    "protocol": "UniswapV3",
+    "token0": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "USD\u20ae0/USDC"
+  },
+  "0x889af944e95788f770983062b13b5a52e367029b": {
+    "address": "0x889af944e95788f770983062b13b5a52e367029b",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WBTC/tBTC"
+  },
+  "0x8bd39fa8608fd949c253987767540c26a0d974cf": {
+    "address": "0x8bd39fa8608fd949c253987767540c26a0d974cf",
+    "protocol": "UniswapV3",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "wstETH/WETH"
+  },
+  "0x8e295789c9465487074a65b1ae9ce0351172393f": {
+    "address": "0x8e295789c9465487074a65b1ae9ce0351172393f",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "USDC/USDC"
+  },
+  "0x91308bc9ce8ca2db82aa30c65619856cc939d907": {
+    "address": "0x91308bc9ce8ca2db82aa30c65619856cc939d907",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WETH/LINK"
+  },
+  "0x9fd6ebb5be86447616500c9fc656f1247cbbd170": {
+    "address": "0x9fd6ebb5be86447616500c9fc656f1247cbbd170",
+    "protocol": "UniswapV3",
+    "token0": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "DAI/USD\u20ae0"
+  },
+  "0xa62ad78825e3a55a77823f00fe0050f567c1e4ee": {
+    "address": "0xa62ad78825e3a55a77823f00fe0050f567c1e4ee",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0xa79fd76ca2b24631ec3151f10c0660a30bc946e7": {
+    "address": "0xa79fd76ca2b24631ec3151f10c0660a30bc946e7",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "WBTC/LINK"
+  },
+  "0xa8328bf492ba1b77ad6381b3f7567d942b000baf": {
+    "address": "0xa8328bf492ba1b77ad6381b3f7567d942b000baf",
+    "protocol": "UniswapV3",
+    "token0": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 10000,
+    "type": "UniswapV3-1.0%",
+    "pair_name": "ARB/USDC"
+  },
+  "0xa8bd646f72ea828ccbc40fa2976866884f883409": {
+    "address": "0xa8bd646f72ea828ccbc40fa2976866884f883409",
+    "protocol": "UniswapV3",
+    "token0": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "STG/WETH"
+  },
+  "0xa961f0473da4864c5ed28e00fcc53a3aab056c1b": {
+    "address": "0xa961f0473da4864c5ed28e00fcc53a3aab056c1b",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "WETH/DAI"
+  },
+  "0xabc27aa4e47ce3b5591093de87ab7abeafb3afa0": {
+    "address": "0xabc27aa4e47ce3b5591093de87ab7abeafb3afa0",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "WETH/LINK"
+  },
+  "0xac70bd92f89e6739b3a08db9b6081a923912f73d": {
+    "address": "0xac70bd92f89e6739b3a08db9b6081a923912f73d",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WBTC/USDC"
+  },
+  "0xaeab1336efc2bf74bc89fcf0e33e6013f3c8587e": {
+    "address": "0xaeab1336efc2bf74bc89fcf0e33e6013f3c8587e",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 2500,
+    "type": "UniswapV3-0.25%",
+    "pair_name": "WETH/USD\u20ae0"
+  },
+  "0xb08a8794a5d3ccca3725d92964696858d3201909": {
+    "address": "0xb08a8794a5d3ccca3725d92964696858d3201909",
+    "protocol": "UniswapV3",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "PENDLE/WETH"
+  },
+  "0xbc7f83378c26796b0ed9349182d84e0dc49b8e4f": {
+    "address": "0xbc7f83378c26796b0ed9349182d84e0dc49b8e4f",
+    "protocol": "UniswapV3",
+    "token0": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "token1": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "weETH/wstETH"
+  },
+  "0xc7341e85996eeb05897d3dec79448b6e4ccc09cf": {
+    "address": "0xc7341e85996eeb05897d3dec79448b6e4ccc09cf",
+    "protocol": "UniswapV3",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "wstETH/USDC"
+  },
+  "0xcb198a55e2a88841e855be4eacaad99422416b33": {
+    "address": "0xcb198a55e2a88841e855be4eacaad99422416b33",
+    "protocol": "UniswapV3",
+    "token0": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "tBTC/WETH"
+  },
+  "0xce8f9e86272cf1f81c90f8457c79dfebf270c6ad": {
+    "address": "0xce8f9e86272cf1f81c90f8457c79dfebf270c6ad",
+    "protocol": "UniswapV3",
+    "token0": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "SUSHI/USDC"
+  },
+  "0xd01075f7314a6436e8b74fc18069848229d0c555": {
+    "address": "0xd01075f7314a6436e8b74fc18069848229d0c555",
+    "protocol": "UniswapV3",
+    "token0": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "xUSD/USDC"
+  },
+  "0xd5d1f85e65ce58a4782852f4a845b1d6ca71f1a2": {
+    "address": "0xd5d1f85e65ce58a4782852f4a845b1d6ca71f1a2",
+    "protocol": "UniswapV3",
+    "token0": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "token1": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "USDC/DAI"
+  },
+  "0xd9e2a1a61b6e61b275cec326465d417e52c1b95c": {
+    "address": "0xd9e2a1a61b6e61b275cec326465d417e52c1b95c",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "fee": 500,
+    "type": "UniswapV3-0.05%",
+    "pair_name": "WETH/USDC"
+  },
+  "0xe754841b77c874135caca3386676e886459c2d61": {
+    "address": "0xe754841b77c874135caca3386676e886459c2d61",
+    "protocol": "UniswapV3",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WETH/USDC"
+  },
+  "0xeaa52b3e3233a3683c2d9804f98682feece4ecc9": {
+    "address": "0xeaa52b3e3233a3683c2d9804f98682feece4ecc9",
+    "protocol": "UniswapV3",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487",
+    "fee": 3000,
+    "type": "UniswapV3-0.3%",
+    "pair_name": "wstETH/GRAI"
+  },
+  "0xeaf03f385c642b02b5c563640bba7c4fbf96c27d": {
+    "address": "0xeaf03f385c642b02b5c563640bba7c4fbf96c27d",
+    "protocol": "UniswapV3",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "WBTC/USD\u20ae0"
+  },
+  "0xfe193d41bf8ee691bec999bce0981b6d06c89394": {
+    "address": "0xfe193d41bf8ee691bec999bce0981b6d06c89394",
+    "protocol": "UniswapV3",
+    "token0": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "fee": 100,
+    "type": "UniswapV3-0.01%",
+    "pair_name": "xUSD/USD\u20ae0"
+  }
+}
